@@ -1,0 +1,27 @@
+Circuit: * C:\users\krishnakaushikd\Documents\IEDA\KiCAD\LTSPICE_E5\LTS_E5.asc
+
+V1: Missing value, assumed 0V @ DC
+
+vm_mid: v(mid)=2.5 AT 2.46487
+vm_out: v(out)=2.5 AT 2.46502
+vmid_hi: v(mid)=5 at 0
+iled: i(r1)=0.00329842 at 5
+
+
+Date: Mon Nov 09 14:55:49 2026
+Total elapsed time: 0.095 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 1053
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 10
+fillins = 0
+solver = Normal
+Matrix Compiler1: 328 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2: 726 bytes object code size  0.1/0.2/[0.1]
+
